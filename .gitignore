@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+.env
+secrets/
+generated/
+*.mp4
+*.wav
+*.mp3
+*.png
+*.jpg
+*.webp
